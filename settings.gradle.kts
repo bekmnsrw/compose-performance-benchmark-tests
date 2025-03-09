@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ComposePerformance"
+rootProject.name = "compose-performance-benchmark-tests"
 include(":app")
 include(":measure")
